@@ -138,7 +138,7 @@ pio.renderers.default = 'notebook'
 
 Now, we will proceed in filtering, subsetting and cleaning the original full Yelp Academic Dataset, according to the flowchart schema below:
 
-![flowchart.png](attachment:flowchart.png)
+<img src="flowchart.png">
 
 <a id='2.1.'></a>
 ### 2.1. Stage 1: Filtering & subsetting from the full 10GB+ dataset
